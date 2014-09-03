@@ -17,7 +17,7 @@
 + (NSArray *)getDefaultDataArray
 {
     NSArray *array =
-    @[@"Welcome", @"Welcome to the Caltech Cares app. Please tap the upper left button to see the menu and find what you are looking for."];
+    @[@"Welcome", @"Welcome to the Caltech Cares app. Please tap the upper left button to see the menu and find what you are looking for.\n\n Caltech Emergency Security Number: (626) 395-5000"];
     return array;
 }
 
